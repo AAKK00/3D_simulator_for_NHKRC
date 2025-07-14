@@ -1,3 +1,3 @@
 # README
-もし何か読み込めなかったら下記のサイトに飛んでください。
+もし何か読み込めなかったら下記のサイトに飛んでください  
 https://github.com/MARC-RCSHQ/3D_training_for_nhkrc_by_Arimura
